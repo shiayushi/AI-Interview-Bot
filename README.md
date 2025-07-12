@@ -3,7 +3,8 @@
 
 <img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/1beac664-2b9b-48bd-9cef-c67bce6bda84" />(OFFLINE)
 
-"C:\Users\ayushi\OneDrive\Desktop\Screenshot 2025-07-12 140240.png" 
+<img width="1866" height="946" alt="image" src="https://github.com/user-attachments/assets/7ea1d026-c589-409e-8a83-6bfef08c7bb7" />
+
 (STREAMLIT-ONLINE)
 
 
