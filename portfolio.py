@@ -5,7 +5,7 @@ st.set_page_config(page_title="Ayushi Kumari Portfolio", layout="wide", page_ico
 
 
 # ---- Hero Section ----
-profile_pic = Image.open("image/photo.jpg")
+profile_pic = Image.open("photo.jpg")
 col1, col2 = st.columns([1, 3])
 with col1:
     st.image(profile_pic, width=200)
