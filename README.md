@@ -1,6 +1,9 @@
 # AI-Interview-Bot
 # 🤖 AI Interview Bot (Offline Version)
 
+<img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/1beac664-2b9b-48bd-9cef-c67bce6bda84" />
+
+
 An interactive offline interview practice bot built using **Streamlit**, **NLTK**, and **LanguageTool**.  
 It helps you:
 - Answer real interview questions
